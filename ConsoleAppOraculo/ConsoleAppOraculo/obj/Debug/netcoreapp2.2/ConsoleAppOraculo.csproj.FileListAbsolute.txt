@@ -1,0 +1,8 @@
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\bin\Debug\netcoreapp2.2\ConsoleAppOraculo.deps.json
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\bin\Debug\netcoreapp2.2\ConsoleAppOraculo.runtimeconfig.json
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\bin\Debug\netcoreapp2.2\ConsoleAppOraculo.runtimeconfig.dev.json
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\bin\Debug\netcoreapp2.2\ConsoleAppOraculo.dll
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\obj\Debug\netcoreapp2.2\ConsoleAppOraculo.csprojAssemblyReference.cache
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\obj\Debug\netcoreapp2.2\ConsoleAppOraculo.csproj.CoreCompileInputs.cache
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\obj\Debug\netcoreapp2.2\ConsoleAppOraculo.AssemblyInfoInputs.cache
+C:\Users\filipe.reis\source\repos\ConsoleAppOraculo\ConsoleAppOraculo\obj\Debug\netcoreapp2.2\ConsoleAppOraculo.AssemblyInfo.cs
